@@ -17,6 +17,6 @@ import Dict
 -}
 swap : Dict.Dict comparable comparable' -> Dict.Dict comparable' comparable
 swap dict =
-  (Dict.toList dict)
+  Dict.toList dict
     |> List.map (\( k, v ) -> ( v, k ))
     |> Dict.fromList
