@@ -1,4 +1,4 @@
-# DictKeyValues [![Build Status](https://travis-ci.org/dustinspecker/dict-key-values.svg?branch=master)](https://travis-ci.org/dustinspecker/dict-key-values)
+# DictKeyValues [![Build Status](https://travis-ci.org/dustinspecker/dict-key-values.svg?branch=master)](https://travis-ci.org/dustinspecker/dict-key-values) [![Elm Docs](https://img.shields.io/badge/elm-docs-brightgreen.svg)](http://package.elm-lang.org/packages/dustinspecker/dict-key-values/latest)
 > Swap the key value pairs of a Dict
 
 ## Install
